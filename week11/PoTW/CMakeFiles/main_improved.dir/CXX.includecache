@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ac1d/Programming/Sublime-Workspace/Algo Lab/week11/PoTW/main_improved.cpp
+iostream
+-
+bitset
+-
+vector
+-
+unordered_set
+-
+unordered_map
+-
+assert.h
+-
+

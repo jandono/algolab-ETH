@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ac1d/Programming/Sublime-Workspace/Algo Lab/week13/planks/planks.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+

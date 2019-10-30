@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ac1d/Programming/Sublime-Workspace/Algo Lab/week13/corbusier/corbusier.cpp
+iostream
+-
+vector
+-
+
